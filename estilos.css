@@ -1,5 +1,8 @@
-body {
+h1 {
 	background-color: Black;
-	color: White
+	border: 1px solid red;
+	color: White;
+	text-align: center;
+	
 
 }
